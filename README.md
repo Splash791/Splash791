@@ -1,4 +1,4 @@
-- Coding one line at a time
+printf("Hello I am Tyler Quach and this is my GitHub Page");
 
 
 <!---
