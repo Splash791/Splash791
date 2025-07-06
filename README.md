@@ -6,7 +6,8 @@ class Tyler {
     private:
       int age = 20;
       string school = "Oregon State University";
-      vector<string> courses = {"Machine Learning & Data Mining","Data Cleaning for ML","Intro to Security", "Web Development", "Software Engineering I"};
+      vector<string> courses = {"Machine Learning & Data Mining","Data Cleaning for ML","Intro to Security",
+                                "Web Development", "Software Engineering I"};
       vector<string> clubs; = {"App Development Club", "Google Developer Group", "Society of Asian Scientist & Engineers", "Association for Computing Machinery"};
       vector<string> hobbies = {"Travel", "Cooking", "Weightlifting"};
 
