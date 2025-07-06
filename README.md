@@ -3,7 +3,7 @@
 
   ```cpp
 class Tyler {
-  private:
+    private:
       int age = 20;
       string school = "Oregon State University";
       vector<string> courses = {"Machine Learning & Data Mining","Data Cleaning for ML","Intro to Security", "Web Development", "Software Engineering I"};
