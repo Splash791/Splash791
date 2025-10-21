@@ -10,7 +10,7 @@ class Tyler {
                                 "Web Development", "Software Engineering I"};
       vector<string> clubs; = {"App Development Club", "Google Developer Group",
                                "Society of Asian Scientist & Engineers", "Association for Computing Machinery"};
-      vector<string> hobbies = {"Travel", "Cooking", "Weightlifting"};
+      vector<string> hobbies = {"Travel", "Cooking", "Weightlifting", "Eating"};
 
     public:
       Tyler(); 
