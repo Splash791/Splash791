@@ -2,31 +2,31 @@
 
 
   ```cpp
-class Tyler {
-    private:
-      int age = 21;
-      string school = "Oregon State University";
-      vector<string> courses = {"Intro to Parallel Programming","Intro to Computer Networks","Intro to AI",
-                                "Intro to Data Visualization};
-      vector<string> clubs; = {"App Development Club", "Google Developer Group",
-                               "Society of Asian Scientist & Engineers", "Association for Computing Machinery"};
-      vector<string> hobbies = {"Travel", "Cooking", "Weightlifting", "Eating"};
+class Tyler:
+    def __init__(self):
+        self.age = 21
+        self.school = "Oregon State University"
 
-    public:
-      Tyler(); 
-  };
+        self.courses = [
+            "Intro to Parallel Programming",
+            "Intro to Computer Networks",
+            "Intro to AI",
+            "Intro to Data Visualization"
+        ]
 
-  ```
+        self.clubs = [
+            "App Development Club",
+            "Google Developer Group",
+            "Society of Asian Scientists & Engineers",
+            "Association for Computing Machinery"
+        ]
 
-
-
-
-
-
-
-
-
-
+        self.hobbies = [
+            "Travel",
+            "Cooking",
+            "Weightlifting",
+            "Eating"
+        ]
 
 
 
