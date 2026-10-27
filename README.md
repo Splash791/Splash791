@@ -16,11 +16,9 @@ class Tyler:
         ]
 
         self.courses = [
-            "Intro to Parallel Programming",
-            "Intro to Computer Networks",
-            "Intro to AI",
-            "Intro to Data Visualization",
-            "ML on Structured Data"
+            "Senior Capstone I",
+            "Intro to Mathematical Statistics",
+            "Intro to Programming Language Fundamentals"
         ]
 
         self.hobbies = [
